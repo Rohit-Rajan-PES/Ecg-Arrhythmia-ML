@@ -1,0 +1,2 @@
+Model,Reference paper accuracy,Our CART test accuracy,Interpretation
+CART,Approximately 80% (reported),63.24%,Not a like-for-like comparison: exact split/settings differ or are unspecified
